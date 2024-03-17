@@ -15,7 +15,7 @@ import os
 
 print_status = True
 predictions_window = []
-bot = telebot.TeleBot('7053382998:AAHybbMj0J_ON9aM7kISp7ni5jcMexlGRQ0')
+bot = telebot.TeleBot('7053382998:AAHybbMjJ_ON9aM7kISp7ni5jcMexlGRQ0')
 
 
 class SimpleCNN(nn.Module):
