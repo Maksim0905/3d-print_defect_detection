@@ -11,4 +11,5 @@
 ![image](https://github.com/Maksim0905/umnojaya_talants/assets/66470697/f4b14423-26a8-444e-994a-2d85dcca66e8)
 
 Пример работы телеграмм бота
+
 ![image](https://github.com/Maksim0905/umnojaya_talants/assets/66470697/74dcb2dd-0ba5-4ecf-926d-6850e1b838f2)
